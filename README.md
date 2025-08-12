@@ -15,5 +15,8 @@ yarn serve
 yarn build
 ```
 
+### Documentation
+See the API reference at `docs/API_REFERENCE.md`.
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
